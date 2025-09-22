@@ -1,9 +1,9 @@
-const settings = {
-  packname: BADGUY
+const settings = { 
+  packname:' BADGUY',
   author: '‎',
-  botName: "BADGUY
-  botOwner:BADGUY
-  ownerNumber: '233500692498 //Set your number here without + symbol, just add country code & number without any space
+  botName: "BADGUY",
+  botOwner:'BADGUY',
+  ownerNumber: '233500692498', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 20, 
@@ -13,4 +13,4 @@ const settings = {
   updateZipUrl: "https://github.com/mruniquehacker/Knightbot-MD/archive/refs/heads/main.zip",
 };
 
-module.exports = settings;
+module.exports = settings; 

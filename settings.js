@@ -2,7 +2,7 @@ const settings = {
   packname:' BADGUY',
   author: '‎',
   botName: "BADGUY",
-  botOwner:'BADGUY',
+  botOwner:'professor',//
   ownerNumber: '233500692498', //Set your number here without + symbol, just add country code & number without any space
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
